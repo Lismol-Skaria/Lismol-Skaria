@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🤝 I’m looking to work with **a new employer**
 
-- 📫 How to reach me **lizelizabeth95@gmail.com**
+- 📫 How to reach me **lizelizabeth95@gmail.com or +971568758377**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
