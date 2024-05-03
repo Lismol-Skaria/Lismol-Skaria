@@ -35,3 +35,27 @@ You can click the Preview link to take a look at your changes.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lismol-skaria&show_icons=true&locale=en" alt="lismol-skaria" /></p>
 
+
+<h3 align="left">Projets:</h3>
+<h4 align="left">Managed Services</h4>
+<p align="left">
+  <ul><li>Oversaw services for  an American global courier delivery Services Company based in Memphis, Tennessee, responsible for the daily delivery of approximately 10 million packages to over 220 countries and territories. This facilitated connectivity to over 99 percent of the world's GDP.
+  </li>
+    <li>Managed a team responsible for maintaining 44 online Java applications owned by the client, focusing primarily on critical applications such as Pickup and Shipment
+creation.
+</li>
+<li>Enhanced and optimized applications to align with evolving customer requirements, ensuring increased functionality and efficiency.
+</li>
+  </ul>
+</p>
+<h4 align="left">PSCAN Modernization</h4>
+<p align="left">
+<ul><li>Led the modernization of the scanning mechanism for a client requirement, aimed at enhancing performance and functionalities.
+</li>
+<li>Successfully executed the modernization project, ensuring timely delivery while maintaining high-quality standards
+</li>
+<li>Developed APIs to facilitate seamless access to the scanning-related data, meeting the client's needs and enhancing overall system functionality.
+</li>
+</ul>
+</p>
+
